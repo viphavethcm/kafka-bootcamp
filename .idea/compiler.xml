@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="kafka-consumer-opensearch" />
         <module name="kafka-producer-wiki" />
         <module name="kafka-basics" />
+        <module name="kafka-extended-api" />
+        <module name="kafka-consumer-opensearch" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
